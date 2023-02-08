@@ -1,0 +1,3337 @@
+{
+  "orders": [
+    {
+      "id": "62e3b45237d4652fe5dae525",
+      "number": "5371619998",
+      "email": null,
+      "sales_channel_id": "62e3a2aca05cb9341aea49d1",
+      "sales_amount": 100,
+      "sales_discount": 0,
+      "cancel_amount": 100,
+      "cancel_discount": 0,
+      "sales_tax": 9,
+      "cancel_tax": 9,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 9,
+          "cancel_tax": 9,
+          "sales_amount": 100,
+          "sales_discount": 0,
+          "cancel_amount": 100,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 0,
+      "payment_tax": 0,
+      "transactions": [
+        {
+          "id": "62e3b46937d4652fe5dae528",
+          "type": "custom",
+          "sales_channel_id": "62e3a2aca05cb9341aea49d1",
+          "amount": 100,
+          "deposit": 100,
+          "change": 0,
+          "paid_at": "2022-07-29T19:20:25+09:00",
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": null,
+          "payment_method_name": "¥100引き商品券"
+        },
+        {
+          "id": "631ace52dbd8fb003d8f15f3",
+          "type": "custom",
+          "sales_channel_id": "62e3a2aca05cb9341aea49d1",
+          "amount": -100,
+          "deposit": -100,
+          "change": 0,
+          "paid_at": "2022-07-29T19:38:43+09:00",
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "62e3b45237d4652fe5dae526",
+          "type": "counter",
+          "items": [
+            {
+              "id": "62e3b45237d4652fe5dae527",
+              "type": "instant",
+              "name": "限定ステッカー",
+              "item_id": "",
+              "variation_id": null,
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 100,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": "2022-07-29T19:38:43+09:00",
+          "shipped_at": "2022-07-29T19:21:37+09:00"
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-29T19:20:02+09:00",
+      "readied_at": null,
+      "billing_address": null
+    },
+    {
+      "id": "62e3b15d37d4652fe5dae51d",
+      "number": "4971154303",
+      "email": null,
+      "sales_channel_id": "62e3a2aca05cb9341aea49d1",
+      "sales_amount": 5000,
+      "sales_discount": 0,
+      "cancel_amount": 5000,
+      "cancel_discount": 0,
+      "sales_tax": 454,
+      "cancel_tax": 454,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 454,
+          "cancel_tax": 454,
+          "sales_amount": 5000,
+          "sales_discount": 0,
+          "cancel_amount": 5000,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 0,
+      "payment_tax": 0,
+      "transactions": [
+        {
+          "id": "62e3b18c37d4652fe5dae520",
+          "type": "cash",
+          "sales_channel_id": "62e3a2aca05cb9341aea49d1",
+          "amount": 5000,
+          "deposit": 5000,
+          "change": 0,
+          "paid_at": "2022-07-29T19:08:12+09:00",
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": null
+        },
+        {
+          "id": "62e3b23937d4652feedadbd1",
+          "type": "cash",
+          "sales_channel_id": "62e3a2aca05cb9341aea49d1",
+          "amount": -5000,
+          "deposit": -5000,
+          "change": 0,
+          "paid_at": "2022-07-29T19:11:05+09:00",
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "62e3b15d37d4652fe5dae51e",
+          "type": "counter",
+          "items": [
+            {
+              "id": "62e3b15d37d4652fe5dae51f",
+              "type": "instant",
+              "name": "店舗限定Tシャツ",
+              "item_id": "",
+              "variation_id": null,
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 5000,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": "2022-07-29T19:12:56+09:00",
+          "shipped_at": "2022-07-29T19:09:34+09:00"
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-29T19:07:25+09:00",
+      "readied_at": null,
+      "billing_address": null
+    },
+    {
+      "id": "62e3af1737d4652fe5dae516",
+      "number": "9221166548",
+      "email": null,
+      "sales_channel_id": "62e3a2aca05cb9341aea49d1",
+      "sales_amount": 5000,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 454,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 454,
+          "cancel_tax": 0,
+          "sales_amount": 5000,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5000,
+      "payment_tax": 454,
+      "transactions": [
+        {
+          "id": "62e3b06337d4652fe5dae51a",
+          "type": "custom",
+          "sales_channel_id": "62e3a2aca05cb9341aea49d1",
+          "amount": 100,
+          "deposit": 100,
+          "change": 0,
+          "paid_at": "2022-07-29T19:03:15+09:00",
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": null,
+          "payment_method_name": "¥100引き商品券"
+        },
+        {
+          "id": "62e3b0a337d4652fe5dae51b",
+          "type": "cash",
+          "sales_channel_id": "62e3a2aca05cb9341aea49d1",
+          "amount": 4900,
+          "deposit": 4900,
+          "change": 0,
+          "paid_at": "2022-07-29T19:04:19+09:00",
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "62e3af1737d4652fe5dae517",
+          "type": "counter",
+          "items": [
+            {
+              "id": "62e3af1737d4652fe5dae518",
+              "type": "instant",
+              "name": "店舗限定Tシャツ",
+              "item_id": "",
+              "variation_id": null,
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 5000,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": "2022-07-29T19:05:58+09:00"
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-29T18:57:43+09:00",
+      "readied_at": "2022-07-29T19:04:19+09:00",
+      "billing_address": null
+    },
+    {
+      "id": "62e3a96737d4652fe5dae500",
+      "number": "7479270972",
+      "email": null,
+      "sales_channel_id": "62e3a275a05cb9341aea49cd",
+      "sales_amount": 9500,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 863,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 863,
+          "cancel_tax": 0,
+          "sales_amount": 9500,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 9500,
+      "payment_tax": 863,
+      "transactions": [
+        {
+          "id": "62e3aa5437d4652fe5dae507",
+          "type": "cash",
+          "sales_channel_id": "62e3a275a05cb9341aea49cd",
+          "amount": 9500,
+          "deposit": 10000,
+          "change": 500,
+          "paid_at": "2022-07-29T18:37:24+09:00",
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "62e3a96737d4652fe5dae504",
+          "type": "counter",
+          "items": [
+            {
+              "id": "62e3a96737d4652fe5dae505",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb1",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            },
+            {
+              "id": "62e3a96737d4652fe5dae506",
+              "type": "instant",
+              "name": "店舗限定Tシャツ",
+              "item_id": "",
+              "variation_id": null,
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 5000,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": "2022-07-29T18:40:37+09:00"
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-29T18:33:27+09:00",
+      "readied_at": "2022-07-29T18:37:24+09:00",
+      "billing_address": null
+    },
+    {
+      "id": "631ae6a96d37bf003d55af1c",
+      "number": "3904717985",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5000,
+      "sales_discount": 0,
+      "cancel_amount": 5000,
+      "cancel_discount": 0,
+      "sales_tax": 454,
+      "cancel_tax": 454,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 454,
+          "cancel_tax": 454,
+          "sales_amount": 5000,
+          "sales_discount": 0,
+          "cancel_amount": 5000,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 0,
+      "payment_tax": 0,
+      "transactions": [
+        {
+          "id": "631ae6a96d37bf003d55af1b",
+          "type": "convenience_store_payment",
+          "sales_channel_id": "ec",
+          "amount": 5000,
+          "deposit": 5000,
+          "change": 0,
+          "paid_at": "2022-07-28T18:54:02+09:00",
+          "payment_fee": 180,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 300
+          }
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a96d37bf003d55af22",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62e25c46ae2216470cc0fed8",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb1",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": "2022-07-28T19:17:49+09:00",
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-28T18:52:06+09:00",
+      "readied_at": null,
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a96d37bf003d55af10",
+      "number": "6522210532",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5000,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 454,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 454,
+          "cancel_tax": 0,
+          "sales_amount": 5000,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5300,
+      "payment_tax": 481,
+      "transactions": [
+        {
+          "id": "631ae6a96d37bf003d55af0f",
+          "type": "convenience_store_payment",
+          "sales_channel_id": "ec",
+          "amount": 5000,
+          "deposit": 5000,
+          "change": 0,
+          "paid_at": "2022-07-28T15:58:37+09:00",
+          "payment_fee": 180,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 300
+          }
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a96d37bf003d55af16",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62e22ee3ae2216470cc0feb2",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb2",
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": "2022-10-04T16:49:49+09:00",
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": "0120011011",
+          "delivery_method_name": "ヤマト",
+          "estimated_arrival_date": "午前中",
+          "shipped_mail_message": "新しい備考だよ"
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-28T15:38:27+09:00",
+      "readied_at": "2022-07-28T15:58:37+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a96d37bf003d55af04",
+      "number": "5388697998",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 4500,
+      "sales_discount": 500,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 409,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 409,
+          "cancel_tax": 0,
+          "sales_amount": 4500,
+          "sales_discount": 500,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 4500,
+      "payment_tax": 409,
+      "transactions": [
+        {
+          "id": "631ae6a96d37bf003d55af03",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 4500,
+          "deposit": 4500,
+          "change": 0,
+          "paid_at": "2022-07-28T11:15:27+09:00",
+          "payment_fee": 162,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a96d37bf003d55af0a",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62e1f13fae2216470cc0fdd8",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb2",
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [
+        {
+          "id": "631ae6a96d37bf003d55af09",
+          "type": "coupon_discount",
+          "name": "test（送料無料）",
+          "price": -500
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-28T11:15:27+09:00",
+      "readied_at": "2022-07-28T11:15:27+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631aea5c6d37bf003d55af71",
+      "number": "7847068248",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 4100,
+      "sales_discount": 900,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 372,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 372,
+          "cancel_tax": 0,
+          "sales_amount": 4100,
+          "sales_discount": 900,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 4100,
+      "payment_tax": 372,
+      "transactions": [
+        {
+          "id": "631aea5c6d37bf003d55af70",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 4100,
+          "deposit": 4100,
+          "change": 0,
+          "paid_at": "2022-07-28T11:11:30+09:00",
+          "payment_fee": 148,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631aea5e6d37bf003d55af77",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62e1f052ae2216470cc0fdab",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb1",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [
+        {
+          "id": "631aea5e6d37bf003d55af76",
+          "type": "coupon_discount",
+          "name": "test（割引）",
+          "price": -900
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-28T11:11:30+09:00",
+      "readied_at": "2022-07-28T11:11:30+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a86d37bf003d55aea6",
+      "number": "8722283331",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5500,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 500,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 500,
+          "cancel_tax": 0,
+          "sales_amount": 5500,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5500,
+      "payment_tax": 500,
+      "transactions": [
+        {
+          "id": "631ae6a86d37bf003d55aea5",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 5500,
+          "deposit": 5500,
+          "change": 0,
+          "paid_at": "2022-07-27T19:37:12+09:00",
+          "payment_fee": 198,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a86d37bf003d55aea8",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62e11558ae2216470cc0fd82",
+              "type": "regular",
+              "name": "長靴",
+              "item_id": "62e11525a05cb9341aea4907",
+              "variation_id": "62e11525a05cb9341aea4908",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 5500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": null,
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "request",
+            "requested_date": "2022-08-01",
+            "start_time": "19:00:00",
+            "end_time": "21:00:00"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-27T19:37:12+09:00",
+      "readied_at": "2022-07-27T19:37:12+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a86d37bf003d55ae9c",
+      "number": "4647895433",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 6500,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 590,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 590,
+          "cancel_tax": 0,
+          "sales_amount": 6500,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 6500,
+      "payment_tax": 590,
+      "transactions": [
+        {
+          "id": "631ae6a86d37bf003d55ae9b",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 6500,
+          "deposit": 6500,
+          "change": 0,
+          "paid_at": "2022-07-27T19:34:48+09:00",
+          "payment_fee": 234,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a86d37bf003d55ae9e",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62e114c8ae2216470cc0fd6c",
+              "type": "regular",
+              "name": "ワンピース",
+              "item_id": "62e11442a05cb9341aea4902",
+              "variation_id": "62e11442a05cb9341aea4903",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 6000,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "preorder",
+            "start_month": "202208",
+            "start_period": "early",
+            "end_month": "202212",
+            "end_period": "late"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-27T19:34:48+09:00",
+      "readied_at": "2022-07-27T19:34:48+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55ae3b",
+      "number": "4698298634",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 7000,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 636,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 636,
+          "cancel_tax": 0,
+          "sales_amount": 7000,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 7140,
+      "payment_tax": 648,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55ae3a",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 7000,
+          "deposit": 7000,
+          "change": 0,
+          "paid_at": "2022-07-25T19:04:29+09:00",
+          "payment_fee": 252,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55ae3e",
+          "type": "ticket",
+          "items": [
+            {
+              "id": "62de6aadae22161ab6aaeea9",
+              "type": "ticket",
+              "name": "プレミアムなチケット",
+              "item_id": "62de6a8ca05cb97abc534585",
+              "variation_id": "62de6a8ca05cb97abc534586",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 7000,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": "2022-07-25T19:04:29+09:00"
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-25T19:04:29+09:00",
+      "readied_at": "2022-07-25T19:04:29+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55ae33",
+      "number": "0747498784",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 1100,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 100,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 100,
+          "cancel_tax": 0,
+          "sales_amount": 1100,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 1100,
+      "payment_tax": 100,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55ae32",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 1100,
+          "deposit": 1100,
+          "change": 0,
+          "paid_at": "2022-07-25T19:02:39+09:00",
+          "payment_fee": 40,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55ae35",
+          "type": "download",
+          "items": [
+            {
+              "id": "62de6a3fae22161ab6aaee93",
+              "type": "digital_contents",
+              "name": "画像",
+              "item_id": "62de6a24a05cb97abc534581",
+              "variation_id": "62de6a24a05cb97abc534582",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 1100,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": "2022-07-25T19:02:39+09:00"
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-25T19:02:39+09:00",
+      "readied_at": "2022-07-25T19:02:39+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55ae2b",
+      "number": "2147462194",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 4500,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 409,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 409,
+          "cancel_tax": 0,
+          "sales_amount": 4500,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 4500,
+      "payment_tax": 409,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55ae2a",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 4500,
+          "deposit": 4500,
+          "change": 0,
+          "paid_at": "2022-07-25T18:55:18+09:00",
+          "payment_fee": 162,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55ae2d",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62de6886ae22161ab6aaee7e",
+              "type": "regular",
+              "name": "Tシャツ（送料¥0）",
+              "item_id": "62de685ea05cb97abc53457c",
+              "variation_id": "62de685fa05cb97abc53457d",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": null,
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-25T18:55:18+09:00",
+      "readied_at": "2022-07-25T18:55:18+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55ae28",
+      "number": "2264970353",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5000,
+      "sales_discount": 0,
+      "cancel_amount": 5000,
+      "cancel_discount": 0,
+      "sales_tax": 454,
+      "cancel_tax": 454,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 454,
+          "cancel_tax": 454,
+          "sales_amount": 5000,
+          "sales_discount": 0,
+          "cancel_amount": 5000,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 0,
+      "payment_tax": 0,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55ae22",
+          "type": "amazon_pay",
+          "sales_channel_id": "ec",
+          "amount": 5000,
+          "deposit": 5000,
+          "change": 0,
+          "paid_at": "2022-07-25T18:45:54+09:00",
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": null
+        },
+        {
+          "id": "631ae6a76d37bf003d55ae23",
+          "type": "amazon_pay",
+          "sales_channel_id": "ec",
+          "amount": -5000,
+          "deposit": -5000,
+          "change": 0,
+          "paid_at": "2022-07-25T18:46:13+09:00",
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55ae24",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62de6650ae22161ab6aaee6c",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb3",
+              "variation_name": "L",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": "2022-07-25T18:46:13+09:00",
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "",
+            "last_name": "テスト姓名",
+            "tel": "0312345678",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-25T18:45:52+09:00",
+      "readied_at": null,
+      "billing_address": {
+        "first_name": "",
+        "last_name": "テスト姓名",
+        "tel": "0312345678",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55ae1c",
+      "number": "0114550798",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5300,
+      "sales_discount": 0,
+      "cancel_amount": 5300,
+      "cancel_discount": 0,
+      "sales_tax": 481,
+      "cancel_tax": 481,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 481,
+          "cancel_tax": 481,
+          "sales_amount": 5300,
+          "sales_discount": 0,
+          "cancel_amount": 5300,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 0,
+      "payment_tax": 0,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55ae17",
+          "type": "cash_on_delivery",
+          "sales_channel_id": "ec",
+          "amount": 5300,
+          "deposit": 0,
+          "change": 0,
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 300
+          },
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55ae18",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62de65ffae22161ab6aaee39",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb2",
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": "2022-07-25T18:44:48+09:00",
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-25T18:44:31+09:00",
+      "readied_at": null,
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55ae10",
+      "number": "0469772229",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5000,
+      "sales_discount": 0,
+      "cancel_amount": 5000,
+      "cancel_discount": 0,
+      "sales_tax": 454,
+      "cancel_tax": 454,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 454,
+          "cancel_tax": 454,
+          "sales_amount": 5000,
+          "sales_discount": 0,
+          "cancel_amount": 5000,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 0,
+      "payment_tax": 0,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55ae0b",
+          "type": "convenience_store_payment",
+          "sales_channel_id": "ec",
+          "amount": 5000,
+          "deposit": 0,
+          "change": 0,
+          "paid_at": null,
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 300
+          }
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55ae0c",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62de659fae22161ab6aaee0f",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb1",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": "2022-07-25T18:43:14+09:00",
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-25T18:42:55+09:00",
+      "readied_at": null,
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55adf8",
+      "number": "9189673267",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5000,
+      "sales_discount": 0,
+      "cancel_amount": 5000,
+      "cancel_discount": 0,
+      "sales_tax": 454,
+      "cancel_tax": 454,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 454,
+          "cancel_tax": 454,
+          "sales_amount": 5000,
+          "sales_discount": 0,
+          "cancel_amount": 5000,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 0,
+      "payment_tax": 0,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55adf7",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 5000,
+          "deposit": 5000,
+          "change": 0,
+          "paid_at": "2022-07-25T18:40:36+09:00",
+          "payment_fee": 180,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        },
+        {
+          "id": "631ae6a76d37bf003d55adf9",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": -5000,
+          "deposit": -5000,
+          "change": 0,
+          "paid_at": "2022-07-25T18:41:30+09:00",
+          "payment_fee": -180,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55adfe",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62de6514ae22161ab6aaede1",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb1",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": "2022-07-25T18:41:30+09:00",
+          "shipped_at": "2022-07-25T18:40:53+09:00",
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": "",
+          "estimated_arrival_date": "",
+          "shipped_mail_message": ""
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-25T18:40:36+09:00",
+      "readied_at": null,
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55adf5",
+      "number": "2539466798",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5000,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 454,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 454,
+          "cancel_tax": 0,
+          "sales_amount": 5000,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5000,
+      "payment_tax": 454,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55adf1",
+          "type": "amazon_pay",
+          "sales_channel_id": "ec",
+          "amount": 5000,
+          "deposit": 5000,
+          "change": 0,
+          "paid_at": "2022-07-25T18:31:12+09:00",
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55adf2",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62de62deae22161ab6aaedc0",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb1",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "",
+            "last_name": "テスト姓名",
+            "tel": "0312345678",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-25T18:31:10+09:00",
+      "readied_at": "2022-07-25T18:31:12+09:00",
+      "billing_address": {
+        "first_name": "",
+        "last_name": "テスト姓名",
+        "tel": "0312345678",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55adeb",
+      "number": "7969221788",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5300,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 481,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 481,
+          "cancel_tax": 0,
+          "sales_amount": 5300,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5300,
+      "payment_tax": 481,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55ade7",
+          "type": "cash_on_delivery",
+          "sales_channel_id": "ec",
+          "amount": 5300,
+          "deposit": 0,
+          "change": 0,
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 300
+          },
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55ade8",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62de532bae22161ab6aaed75",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb2",
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-25T17:24:11+09:00",
+      "readied_at": "2022-07-25T17:24:11+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55ade0",
+      "number": "0580250548",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5000,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 454,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 454,
+          "cancel_tax": 0,
+          "sales_amount": 5000,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5300,
+      "payment_tax": 481,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55addc",
+          "type": "convenience_store_payment",
+          "sales_channel_id": "ec",
+          "amount": 5000,
+          "deposit": 0,
+          "change": 0,
+          "paid_at": null,
+          "payment_fee": 0,
+          "payment_fee_rate": 0,
+          "fee": null,
+          "system_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 300
+          }
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55addd",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62de50dcae22161ab6aaed2d",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb2",
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": "0120011011",
+          "delivery_method_name": "ヤマトか",
+          "estimated_arrival_date": "午前中",
+          "shipped_mail_message": "メモ"
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-25T17:14:20+09:00",
+      "readied_at": null,
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a76d37bf003d55adb6",
+      "number": "6885458477",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5900,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 529,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.08,
+          "sales_tax": 29,
+          "cancel_tax": 0,
+          "sales_amount": 400,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        },
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 500,
+          "cancel_tax": 0,
+          "sales_amount": 5500,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5900,
+      "payment_tax": 529,
+      "transactions": [
+        {
+          "id": "631ae6a76d37bf003d55adb5",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 5900,
+          "deposit": 5900,
+          "change": 0,
+          "paid_at": "2022-07-22T20:13:45+09:00",
+          "payment_fee": 213,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a76d37bf003d55adbc",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da8669ae22161753cba24a",
+              "type": "regular",
+              "name": "ハンバーガー",
+              "item_id": "62da80f8a05cb96e83d25fe2",
+              "variation_id": "62da80f8a05cb96e83d25fe3",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.08,
+              "regular_price": 400,
+              "quantity": 1,
+              "option": []
+            },
+            {
+              "id": "62da8669ae22161753cba24b",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb3",
+              "variation_name": "L",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 1000
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T20:13:45+09:00",
+      "readied_at": "2022-07-22T20:13:45+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a66d37bf003d55ada2",
+      "number": "0830606697",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5000,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 454,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 454,
+          "cancel_tax": 0,
+          "sales_amount": 5000,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5000,
+      "payment_tax": 454,
+      "transactions": [
+        {
+          "id": "631ae6a66d37bf003d55ada1",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 5000,
+          "deposit": 5000,
+          "change": 0,
+          "paid_at": "2022-07-22T19:47:54+09:00",
+          "payment_fee": 180,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a66d37bf003d55ada7",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da805aae22161753cba1f5",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb2",
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T19:47:54+09:00",
+      "readied_at": "2022-07-22T19:47:54+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a66d37bf003d55ad96",
+      "number": "0491239226",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5200,
+      "sales_discount": 0,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 472,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 472,
+          "cancel_tax": 0,
+          "sales_amount": 5200,
+          "sales_discount": 0,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5200,
+      "payment_tax": 472,
+      "transactions": [
+        {
+          "id": "631ae6a66d37bf003d55ad95",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 5200,
+          "deposit": 5200,
+          "change": 0,
+          "paid_at": "2022-07-22T19:41:28+09:00",
+          "payment_fee": 188,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a66d37bf003d55ad9c",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da7ed8ae22161753cba1cd",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb1",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": "2022-10-04T16:45:13+09:00",
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": "0012117117",
+          "delivery_method_name": "ヤマト再来",
+          "estimated_arrival_date": "いつかは",
+          "shipped_mail_message": "変更あります"
+        }
+      ],
+      "option": [
+        {
+          "id": "631ae6a66d37bf003d55ad9b",
+          "type": "gift_wrapping",
+          "name": "ギフトラッピング: 包装",
+          "price": 200
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T19:41:28+09:00",
+      "readied_at": "2022-07-22T19:41:28+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a66d37bf003d55ad8a",
+      "number": "6677514951",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 2700,
+      "sales_discount": 2300,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 245,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 245,
+          "cancel_tax": 0,
+          "sales_amount": 2700,
+          "sales_discount": 2300,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 2700,
+      "payment_tax": 245,
+      "transactions": [
+        {
+          "id": "631ae6a66d37bf003d55ad89",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 2700,
+          "deposit": 2700,
+          "change": 0,
+          "paid_at": "2022-07-22T17:28:32+09:00",
+          "payment_fee": 98,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a66d37bf003d55ad90",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da5fb0ae22161753cba105",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb2",
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [
+        {
+          "id": "631ae6a66d37bf003d55ad8f",
+          "type": "coupon_discount",
+          "name": "test",
+          "price": -2300
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T17:28:32+09:00",
+      "readied_at": "2022-07-22T17:28:32+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a66d37bf003d55ad7e",
+      "number": "1162168407",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 4500,
+      "sales_discount": 500,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 409,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 409,
+          "cancel_tax": 0,
+          "sales_amount": 4500,
+          "sales_discount": 500,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 4500,
+      "payment_tax": 409,
+      "transactions": [
+        {
+          "id": "631ae6a66d37bf003d55ad7d",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 4500,
+          "deposit": 4500,
+          "change": 0,
+          "paid_at": "2022-07-22T17:22:42+09:00",
+          "payment_fee": 162,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a66d37bf003d55ad84",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da5e52ae22161753cba0d8",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb3",
+              "variation_name": "L",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [
+        {
+          "id": "631ae6a66d37bf003d55ad83",
+          "type": "coupon_discount",
+          "name": "送料",
+          "price": -500
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T17:22:42+09:00",
+      "readied_at": "2022-07-22T17:22:42+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a66d37bf003d55ad72",
+      "number": "8342815831",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 4325,
+      "sales_discount": 675,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 393,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 393,
+          "cancel_tax": 0,
+          "sales_amount": 4325,
+          "sales_discount": 675,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 4325,
+      "payment_tax": 393,
+      "transactions": [
+        {
+          "id": "631ae6a66d37bf003d55ad71",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 4325,
+          "deposit": 4325,
+          "change": 0,
+          "paid_at": "2022-07-22T17:21:14+09:00",
+          "payment_fee": 156,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a66d37bf003d55ad78",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da5dfaae22161753cba0ab",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb1",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [
+        {
+          "id": "631ae6a66d37bf003d55ad77",
+          "type": "coupon_discount",
+          "name": "割引クーポン",
+          "price": -675
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T17:21:14+09:00",
+      "readied_at": "2022-07-22T17:21:14+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a66d37bf003d55ad66",
+      "number": "8757942753",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 4000,
+      "sales_discount": 1000,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 363,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 363,
+          "cancel_tax": 0,
+          "sales_amount": 4000,
+          "sales_discount": 1000,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 4000,
+      "payment_tax": 363,
+      "transactions": [
+        {
+          "id": "631ae6a66d37bf003d55ad65",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 4000,
+          "deposit": 4000,
+          "change": 0,
+          "paid_at": "2022-07-22T17:17:54+09:00",
+          "payment_fee": 144,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a66d37bf003d55ad6c",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da5d32ae22161753cba083",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb2",
+              "variation_name": "M",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [
+        {
+          "id": "631ae6a66d37bf003d55ad6b",
+          "type": "coupon_discount",
+          "name": "値引きクーポン",
+          "price": -1000
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T17:17:54+09:00",
+      "readied_at": "2022-07-22T17:17:54+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a66d37bf003d55ad56",
+      "number": "8562531577",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 6900,
+      "sales_discount": 1600,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 627,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 627,
+          "cancel_tax": 0,
+          "sales_amount": 6900,
+          "sales_discount": 1600,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 6900,
+      "payment_tax": 627,
+      "transactions": [
+        {
+          "id": "631ae6a66d37bf003d55ad55",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 6900,
+          "deposit": 6900,
+          "change": 0,
+          "paid_at": "2022-07-22T17:16:08+09:00",
+          "payment_fee": 249,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a66d37bf003d55ad5f",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da5cc7ae22161753cba053",
+              "type": "regular",
+              "name": "帽子",
+              "item_id": "62da550ea05cb96e83d25fbd",
+              "variation_id": "62da550ea05cb96e83d25fbe",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 3000,
+              "quantity": 1,
+              "option": []
+            },
+            {
+              "id": "62da5cc7ae22161753cba054",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb1",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 1000
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [
+        {
+          "id": "631ae6a66d37bf003d55ad5e",
+          "type": "bundle_sales_discount",
+          "name": "セット割",
+          "price": -1600
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T17:16:08+09:00",
+      "readied_at": "2022-07-22T17:16:08+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a66d37bf003d55ad46",
+      "number": "3755027483",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 9075,
+      "sales_discount": 1425,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 825,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 825,
+          "cancel_tax": 0,
+          "sales_amount": 9075,
+          "sales_discount": 1425,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 9075,
+      "payment_tax": 825,
+      "transactions": [
+        {
+          "id": "631ae6a66d37bf003d55ad45",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 9075,
+          "deposit": 9075,
+          "change": 0,
+          "paid_at": "2022-07-22T17:14:40+09:00",
+          "payment_fee": 327,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a66d37bf003d55ad4f",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da5c70ae22161753cba013",
+              "type": "regular",
+              "name": "Tシャツ",
+              "item_id": "62da5094a05cb96e83d25fad",
+              "variation_id": "62da5094a05cb96e83d25fb1",
+              "variation_name": "S",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 4500,
+              "quantity": 1,
+              "option": []
+            },
+            {
+              "id": "62da5c70ae22161753cba014",
+              "type": "regular",
+              "name": "パンツ",
+              "item_id": "62da555ba05cb96e83d25fc1",
+              "variation_id": "62da555ba05cb96e83d25fc2",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 5000,
+              "quantity": 1,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 1000
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [
+        {
+          "id": "631ae6a66d37bf003d55ad4e",
+          "type": "bundle_sales_discount",
+          "name": "セット割",
+          "price": -1425
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T17:14:40+09:00",
+      "readied_at": "2022-07-22T17:14:40+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a66d37bf003d55ad3b",
+      "number": "0909372964",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5140,
+      "sales_discount": 260,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 467,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 467,
+          "cancel_tax": 0,
+          "sales_amount": 5140,
+          "sales_discount": 260,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5140,
+      "payment_tax": 467,
+      "transactions": [
+        {
+          "id": "631ae6a66d37bf003d55ad3a",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 5140,
+          "deposit": 5140,
+          "change": 0,
+          "paid_at": "2022-07-22T17:13:12+09:00",
+          "payment_fee": 186,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a66d37bf003d55ad3f",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da5c17ae22161753cb9fd7",
+              "type": "regular",
+              "name": "短い靴下",
+              "item_id": "62da5bcca05cb96e83d25fc8",
+              "variation_id": "62da5bcca05cb96e83d25fc9",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 1300,
+              "quantity": 3,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 1500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [
+        {
+          "id": "631ae6a66d37bf003d55ad3d",
+          "type": "volume_discount",
+          "name": "まとめて割",
+          "price": -260
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T17:13:12+09:00",
+      "readied_at": "2022-07-22T17:13:12+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a66d37bf003d55ad30",
+      "number": "4968079206",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 5600,
+      "sales_discount": 400,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 509,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 509,
+          "cancel_tax": 0,
+          "sales_amount": 5600,
+          "sales_discount": 400,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 5600,
+      "payment_tax": 509,
+      "transactions": [
+        {
+          "id": "631ae6a66d37bf003d55ad2f",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 5600,
+          "deposit": 5600,
+          "change": 0,
+          "paid_at": "2022-07-22T16:47:27+09:00",
+          "payment_fee": 202,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a66d37bf003d55ad34",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da560fae22161753cb9fb7",
+              "type": "regular",
+              "name": "靴下",
+              "item_id": "62da55a4a05cb96e83d25fc4",
+              "variation_id": "62da55a4a05cb96e83d25fc5",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 1500,
+              "quantity": 3,
+              "option": []
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 1500
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [
+        {
+          "id": "631ae6a66d37bf003d55ad32",
+          "type": "volume_discount",
+          "name": "まとめて割",
+          "price": -400
+        }
+      ],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T16:47:27+09:00",
+      "readied_at": "2022-07-22T16:47:27+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    },
+    {
+      "id": "631ae6a56d37bf003d55ad23",
+      "number": "5070200332",
+      "email": "stores@example.com",
+      "sales_channel_id": "ec",
+      "sales_amount": 22385,
+      "sales_discount": 1915,
+      "cancel_amount": 0,
+      "cancel_discount": 0,
+      "sales_tax": 2035,
+      "cancel_tax": 0,
+      "tax_details": [
+        {
+          "tax_class": "taxable",
+          "tax_rate": 0.1,
+          "sales_tax": 2035,
+          "cancel_tax": 0,
+          "sales_amount": 22385,
+          "sales_discount": 1915,
+          "cancel_amount": 0,
+          "cancel_discount": 0
+        }
+      ],
+      "payment_amount": 22385,
+      "payment_tax": 2035,
+      "transactions": [
+        {
+          "id": "631ae6a56d37bf003d55ad22",
+          "type": "credit_card",
+          "sales_channel_id": "ec",
+          "amount": 22385,
+          "deposit": 22385,
+          "change": 0,
+          "paid_at": "2022-07-22T16:36:46+09:00",
+          "payment_fee": 806,
+          "payment_fee_rate": 0.036,
+          "fee": null,
+          "system_fee": null
+        }
+      ],
+      "deliveries": [
+        {
+          "id": "631ae6a56d37bf003d55ad26",
+          "type": "shipping",
+          "items": [
+            {
+              "id": "62da538eae22161753cb9f81",
+              "type": "regular",
+              "name": "靴",
+              "item_id": "62da52e5a05cb96e83d25fb8",
+              "variation_id": "62da52e5a05cb96e83d25fb9",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 8300,
+              "quantity": 1,
+              "option": [
+                {
+                  "id": "631ae6a66d37bf003d55ad2c",
+                  "name": "5%割引",
+                  "price": -415,
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "id": "62da538eae22161753cb9f82",
+              "type": "regular",
+              "name": "腕時計",
+              "item_id": "62da5299a05cb96e83d25fb5",
+              "variation_id": "62da5299a05cb96e83d25fb6",
+              "variation_name": "",
+              "code": null,
+              "barcode": null,
+              "tax_rate": 0.1,
+              "regular_price": 15000,
+              "quantity": 1,
+              "option": [
+                {
+                  "id": "631ae6a66d37bf003d55ad2e",
+                  "name": "10%割引",
+                  "price": -1500,
+                  "quantity": 1
+                }
+              ]
+            }
+          ],
+          "canceled_at": null,
+          "shipped_at": null,
+          "shipping_fee": {
+            "tax_class": "taxable",
+            "tax_rate": 0.1,
+            "amount": 1000
+          },
+          "shipping_address": {
+            "first_name": "太郎",
+            "last_name": "山田",
+            "tel": "0801234578",
+            "zip_code": "1500011",
+            "country": "JPN",
+            "prefecture": "東京都",
+            "address": "渋谷区東3"
+          },
+          "delivery_date": {
+            "type": "regular"
+          },
+          "tracking_number": null,
+          "delivery_method_name": null,
+          "estimated_arrival_date": null,
+          "shipped_mail_message": null
+        }
+      ],
+      "option": [],
+      "note": "",
+      "remarks": "",
+      "receipt_address": null,
+      "ordered_at": "2022-07-22T16:36:46+09:00",
+      "readied_at": "2022-07-22T16:36:46+09:00",
+      "billing_address": {
+        "first_name": "太郎",
+        "last_name": "山田",
+        "tel": "0801234578",
+        "zip_code": "1500011",
+        "country": "JPN",
+        "prefecture": "東京都",
+        "address": "渋谷区東3"
+      }
+    }
+  ]
+}

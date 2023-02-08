@@ -3,8 +3,10 @@
 
 本API利用希望の方は、[開発パートナーの登録](https://github.com/heyinc/development-partner-docs/blob/master/development-partner-signup.md)を行なってください。
 
-※現状公開しているAPIは STORES に対応したAPIのみですが、STORES レジ に対応したバージョンのAPIも近日公開予定です。
+※[プライベートアプリ](https://github.com/heyinc/development-partner-docs/blob/master/partner-app.md)でのAPIのご利用の場合、スタンダードプランへのお申し込みが必要です。
+
 ## 目次
 - [テストについて](test-data.md)
 - RESTAPI doc
+  - [version 202211(最新)](https://heyinc.github.io/retail-api-docs/202211.html)
   - [version 202109](https://heyinc.github.io/retail-api-docs/202109.html)

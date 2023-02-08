@@ -1,0 +1,40 @@
+{
+  "remittances": [
+    {
+      "id": "62e2591363eb58003fd5c2ea",
+      "transferred_date": "2022-06-30",
+      "transfer_amount": 16595,
+      "transfer_fee": 275,
+      "sales_amount": 17500,
+      "payment_fee": 630,
+      "speedcash_payment_fee": 0,
+      "used_speedcash": false,
+      "chargeback_amount": 0,
+      "campaign_coupon_fee": 0
+    },
+    {
+      "id": "62e26935cfafe9003c8f1d32",
+      "transferred_date": "2021-12-10",
+      "transfer_amount": 13011,
+      "transfer_fee": 275,
+      "sales_amount": 14000,
+      "payment_fee": 504,
+      "speedcash_payment_fee": 210,
+      "used_speedcash": true,
+      "chargeback_amount": 0,
+      "campaign_coupon_fee": 0
+    },
+    {
+      "id": "62e3a2fb7c76d2003d5c4c76",
+      "transferred_date": "2021-11-30",
+      "transfer_amount": 12257,
+      "transfer_fee": 275,
+      "sales_amount": 13000,
+      "payment_fee": 468,
+      "speedcash_payment_fee": 0,
+      "used_speedcash": false,
+      "chargeback_amount": 0,
+      "campaign_coupon_fee": 1000
+    }
+  ]
+}
