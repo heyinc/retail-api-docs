@@ -1,6 +1,30 @@
 {
   "remittances": [
     {
+      "id": "64c21d37deb0e9003f69401f",
+      "transferred_date": "2023-07-31",
+      "transfer_amount": 37213,
+      "transfer_fee": 275,
+      "sales_amount": 44000,
+      "payment_fee": 1512,
+      "speedcash_payment_fee": 0,
+      "used_speedcash": false,
+      "chargeback_amount": 0,
+      "deduction_amount": 5000,
+      "campaign_coupon_fee": 0,
+      "fee_detail": {
+        "total_amount": 6787,
+        "total_amount_including_tax": 2275,
+        "total_tax_amount": 206,
+        "transfer_fee": 275,
+        "payment_fee": 1512,
+        "speedcash_payment_fee": 0,
+        "chargeback_amount": 0,
+        "taxable_deduction_amount": 2000,
+        "non_taxable_deduction_amount": 3000
+      }
+    },
+    {
       "id": "62e2591363eb58003fd5c2ea",
       "transferred_date": "2022-06-30",
       "transfer_amount": 16595,
@@ -10,6 +34,7 @@
       "speedcash_payment_fee": 0,
       "used_speedcash": false,
       "chargeback_amount": 0,
+      "deduction_amount": 0,
       "campaign_coupon_fee": 0
     },
     {
@@ -22,6 +47,7 @@
       "speedcash_payment_fee": 210,
       "used_speedcash": true,
       "chargeback_amount": 0,
+      "deduction_amount": 0,
       "campaign_coupon_fee": 0
     },
     {
@@ -34,6 +60,7 @@
       "speedcash_payment_fee": 0,
       "used_speedcash": false,
       "chargeback_amount": 0,
+      "deduction_amount": 0,
       "campaign_coupon_fee": 1000
     }
   ]
