@@ -3,7 +3,7 @@
 
 本API利用希望の方は、[開発パートナーの登録](https://github.com/heyinc/development-partner-docs/blob/master/development-partner-signup.md)を行なってください。
 
-※[プライベートアプリ](https://github.com/heyinc/development-partner-docs/blob/master/partner-app.md)でのAPIのご利用の場合、スタンダードプランへのお申し込みが必要です。
+※[プライベートアプリ](https://github.com/heyinc/development-partner-docs/blob/master/partner-app.md)でのAPIのご利用の場合、ネットショップ ベーシックプラン もしくは レジ ベーシックプラン いずれかのお申し込みが必要です。
 
 ## 目次
 - [テストについて](test-data.md)
